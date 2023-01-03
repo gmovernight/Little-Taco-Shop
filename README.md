@@ -24,4 +24,4 @@ This repository shares the completed code for the [YouTube Tutorial](https://you
 
 **DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
 
-##What I learned about HTML5:
+## What I learned about HTML5:
