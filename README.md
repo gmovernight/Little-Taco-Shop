@@ -27,6 +27,11 @@ This repository shares the completed code for the [YouTube Tutorial](https://you
 ## What I learned about HTML5 from this challenge:
 
 **NON-TECHNICAL ASPECTS**
+- EVERY WEB DEVELOPER SHOULD KNOW HTML.
+- SEMANTIC HTML IS VERY IMPORTANT!! Semantic HTML is great because it structures your html and makes it more easily readable for screen readers, plus it provides more logical flow structure to your html.
+- Always add as much information and attributes to your html elements for good development practice.
+- IT IS VERY IMPORTANT TO ALWAYS HAVE GOOD MEDIA SOURCES FOR FREE IMAGES, FONTS, ICONS ETC.
+- Every webpage on the internet uses html to some degree.
 
 **TECHNICAL ASPECTS**
 - HTML is the most basic building block of the Web.
