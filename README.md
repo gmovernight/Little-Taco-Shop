@@ -24,4 +24,36 @@ This repository shares the completed code for the [YouTube Tutorial](https://you
 
 **DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
 
-## What I learned about HTML5:
+## What I learned about HTML5 from this challenge:
+
+**NON-TECHNICAL ASPECTS**
+
+**TECHNICAL ASPECTS**
+- HTML is the most basic building block of the Web.
+- Every HTML file should contain a head and body tag enclosed in the main "html" element.
+- The "meta" element is used in the "head" element to include more detail about the file i.e author, decscription, charset.
+- The "title" element in the head is used to specify the name of the webpage in browser tab section.
+- The "link" element is necessary for any external files you would like to link that have an impact on your html webpage.
+- "h1" element specifies the main heading of your webpage
+- You get three main types of list elements: Ordered list, Unordered list and description lists.
+- Use the "img" element to add images, where you can specify the "src", "alt", "title" or "width" attributes.
+- "a" element allows you to add links and specify the source using the "href" attribute.
+- "article" and "section" elements are useful to create individual segments in your webpage.
+- "figure" and "figcaption" elements are useful for encapsulating images and giving them captions.
+- "details" and "summary" elements are useful for adding dropdown information on your webpage.
+- Use the "table" element to create tables.
+- User the "tr" and "th" elements to create the rows and the col with headings, and attribute such as "scope", "rowspan" and "colspan" to specify the scope and span of the rows and columns.
+- The "tr" columns writes from left to right and every "tr" element declaration writes to the next row.
+- Use the "td" element to fill in the details of the table.
+- The "id" attribute is useful for reference and linking to different locations in the webpage.
+- Use the "address" element to add an address.
+- Use the "form" element to capture data from the user.
+- Different types of inputs: Radio, text, number, password and checkbox.
+- POST and GET methods are used when submitting a form and the action is the location to send the information.
+- User the "fieldset" element to demarcate different form section in your form.
+- "label" element specifies the name of the field and the "input" element specifies the input area.
+- "for" attribute in the "label" element and the "id" attribute in the "input" element should always be the same.
+- The "list" attribute in the "input" element is useful for displaying different option selections.
+- "datalist" element is used to specify the different option selections.
+- "button" element creates buttons and the common types are the "submit" and "reset" buttons.
+
