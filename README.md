@@ -1,4 +1,8 @@
 ![Screenshot (29)](https://user-images.githubusercontent.com/106769458/210413206-1b254fc1-7c0b-41e9-aef8-f4a8958dddce.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/106769458/210413571-f06d435c-5090-45ae-b849-97922955f842.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/106769458/210413578-f473570d-492e-4019-8b4e-6b6f0440cab9.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/106769458/210413588-16221517-b3fb-489a-8491-e823bab1b1bd.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/106769458/210413602-ea30bd76-02a5-4b99-afec-a8331c2ede35.png)
 
 ## What I learned about HTML5 from this challenge:
 
